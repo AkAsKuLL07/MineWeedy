@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "mineweedy:blocks/jungle_sapling",
+    "particle": "mineweedy:blocks/dd"
+  }
+}

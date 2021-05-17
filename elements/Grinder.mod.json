@@ -1,0 +1,32 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "grinder",
+    "customModelName": "Normal",
+    "name": "Grinder",
+    "specialInfo": [
+      "Pa grindar la weed"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MineWeedy"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "GrinderTrinchar"
+    }
+  }
+}

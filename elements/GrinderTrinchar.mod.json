@@ -1,0 +1,7 @@
+{
+  "_fv": 18,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable type=\"Boolean\" id=\"TRINCHAOPENED\">TRINCHAOPENED</variable><variable type=\"Number\" id=\"TRINCHASL1\">TRINCHASL1</variable><variable type=\"Number\" id=\"TRINCHASL2\">TRINCHASL2</variable></variables><block type=\"event_trigger\" deletable=\"false\" x=\"400\" y=\"138\"><field name=\"trigger\">player_useitem_start</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"entity_issneaking\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></value><statement name=\"DO0\"><block type=\"entity_open_gui\"><field name=\"guiname\">GRINDARGUI</field><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><value name=\"x\"><block type=\"coord_x\"></block></value><value name=\"y\"><block type=\"coord_y\"></block></value><value name=\"z\"><block type=\"coord_z\"></block></value></block></statement></block></next></block></xml>"
+  }
+}

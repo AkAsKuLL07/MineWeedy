@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "cogollo2",
+    "customModelName": "Normal",
+    "name": "Cogollo",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "Cogollazo de la parra"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MineWeedy"
+    },
+    "stackSize": 32,
+    "nutritionalValue": 9,
+    "saturation": 3.3,
+    "eatingSpeed": 15,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "CogolloFoodEaten"
+    }
+  }
+}

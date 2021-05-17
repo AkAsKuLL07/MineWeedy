@@ -1,0 +1,81 @@
+{
+  "_fv": 18,
+  "_type": "plant",
+  "definition": {
+    "renderType": 120,
+    "texture": "defi1",
+    "textureBottom": "jungle_sapling",
+    "customModelName": "Cross model",
+    "itemTexture": "defi1",
+    "particleTexture": "dd",
+    "tintType": "Foliage",
+    "isItemTinted": false,
+    "plantType": "double",
+    "staticPlantGenerationType": "Flower",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 10,
+    "doublePlantGenerationType": "Grass",
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Marihuana",
+    "specialInfo": [
+      "Plantote"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MineWeedy"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "useLootTableForDrops": true,
+    "customDrop": {
+      "value": "CUSTOM:Semillasweed"
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "GREEN_TERRACOTTA",
+    "creativePickItem": {
+      "value": "CUSTOM:Marihuana"
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [],
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "plains"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "mountains"
+      }
+    ]
+  }
+}

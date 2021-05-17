@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "mineweedy:block/marihuana"
+    },
+    "half=lower": {
+      "model": "mineweedy:block/marihuana_bottom"
+    }
+  }
+}
